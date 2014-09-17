@@ -1,7 +1,7 @@
 NB_Universal_ADB_Driver
 =======================
 
-NB(ç‰›é€¼) Universal ADB Driver
+NB(Å£±Æ) Universal ADB Driver
 
 
 1.FOR WHAT
